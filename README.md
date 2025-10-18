@@ -4,7 +4,7 @@ This repository contains a structured collection of Windows Batch Script program
 It is designed as a hands-on reference for mastering core and intermediate concepts in Batch scripting, including command automation, file operations, loops, and basic algorithmic logic.
 
 ## 📁 Repository Structure
-batch-scripting
+[batch-scripting](https://github.com/samuelrajgarikimukku/Batch-Scripting/tree/main/batch)
 
 ├── 01_mybatchbro.bat                  
 ├── 02_incognito.bat                    
