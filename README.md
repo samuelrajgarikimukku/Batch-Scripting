@@ -82,5 +82,5 @@ batch-scripting
 - Integrate scheduled task automation
 
 🙌 Acknowledgements
-- YouTube Playlist for clear step-by-step explanations.
+- [YouTube Playlist](https://youtu.be/W4LIoLgVdbA) for clear step-by-step explanations.
 - Microsoft Windows CMD Documentation.
