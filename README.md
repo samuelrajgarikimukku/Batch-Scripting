@@ -5,15 +5,15 @@ It is designed as a hands-on reference for mastering core and intermediate conce
 
 ## 📁 Repository Structure
 batch-scripting/
-├── 01_mybatchbro.bat
-├── 02_incognito.bat
-├── 03_open_application.bat
-├── 04_open_file.bat
-├── 05_Move_file_location.bat
-├── 06_input_from_user.bat
-├── 07_no_YesNo_userinput.bat
-├── 08_new_folder.bat
-├── 09_look_through_files.bat
+- ├── 01_mybatchbro.bat
+- |── 02_incognito.bat
+- ├── 03_open_application.bat
+- ├── 04_open_file.bat
+- ├── 05_Move_file_location.bat
+- ├── 06_input_from_user.bat
+- ├── 07_no_YesNo_userinput.bat
+- ├── 08_new_folder.bat
+- ├── 09_look_through_files.bat
 ├── 10_output_in_Excel.bat
 ├── 15_autorun_batchscript.bat
 ├── 16_batch_script_array.bat
