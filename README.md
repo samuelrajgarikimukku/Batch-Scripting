@@ -5,32 +5,30 @@ It is designed as a hands-on reference for mastering core and intermediate conce
 
 ## 📁 Repository Structure
 batch-scripting/
-├── 01_mybatchbro.bat
-|── 02_incognito.bat
-├── 03_open_application.bat
-├── 04_open_file.bat
-├── 05_Move_file_location.bat
-├── 06_input_from_user.bat
-├── 07_no_YesNo_userinput.bat
-├── 08_new_folder.bat
-├── 09_look_through_files.bat
-├── 10_output_in_Excel.bat
-├── 15_autorun_batchscript.bat
-├── 16_batch_script_array.bat
-├── 19_month_name.bat
-├── 20_remove_whitespace.bat
-├── 21_call_batch_script.bat
-├── 22_system_info.bat
-├── 23_ForLoop_even.bat
-├── 24_IF_Counter.bat
-├── 25_movingfiles_to_other_folder.bat
-├── 26_FindingFolder.bat
-├── 27_setlocalFunction.bat
-├── 28_fibonacci.bat
-├── 29_Arrays_in_batch.bat
-├── 30_ip_address.bat
-└── 31_Find_command.bat
-
+├── 01_mybatchbro.bat              # Basic batch script intro  
+├── 02_incognito.bat               # Launch browser in incognito mode  
+├── 03_open_application.bat        # Open installed applications  
+├── 04_open_file.bat               # Open specific files via batch  
+├── 05_Move_file_location.bat      # Move files between folders  
+├── 06_input_from_user.bat         # Accept user input  
+├── 07_no_YesNo_userinput.bat      # Yes/No prompt handling  
+├── 08_new_folder.bat              # Create new folders  
+├── 09_look_through_files.bat      # Iterate through files in a directory  
+├── 10_output_in_Excel.bat         # Export output to Excel format  
+├── 11_call_batchscript.bat        # Call another batch script  
+├── 12_batch_script_array.bat      # Simulate arrays in batch  
+├── 13_batch_script.bat            # General-purpose script  
+├── 14_F_Counter.bat               # Loop counter with FOR  
+├── 15_movingfiles_to_other_folder.bat # Move multiple files  
+├── 16_FindingFolder.bat           # Search for folders  
+├── 17_setlocalFunction.bat        # Use SETLOCAL for variable scope  
+├── 19_Arrays_in_batch.bat         # Advanced array simulation  
+├── 20_remove_whitespace.bat       # Trim whitespace from strings  
+├── 21_call_batchscript.bat        # Another example of script calling  
+├── 22_system_info.bat             # Get system information  
+├── 23_F.bat                       # FOR loop example  
+├── 30_ip_address.bat              # Retrieve IP address  
+├── 31_Find_command.bat            # Use FIND command in batch  
 ## 🧠 Topics Covered
 Concept	Example Script(s)	Description
 Basic Batch Commands	01_mybatchbro.bat	Introduction to basic syntax and echo commands
